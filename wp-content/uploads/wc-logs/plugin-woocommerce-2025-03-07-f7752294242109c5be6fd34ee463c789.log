@@ -1,0 +1,8 @@
+2025-03-07T12:52:44+00:00 WARNING The image upload failed: "cURL error 7: Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server", creating the product without image
+2025-03-07T12:52:44+00:00 WARNING The image upload failed: "cURL error 7: Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server", creating the product without image
+2025-03-07T12:52:44+00:00 WARNING The image upload failed: "cURL error 7: Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server", creating the product without image
+2025-03-07T12:52:44+00:00 WARNING The image upload failed: "cURL error 7: Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server", creating the product without image
+2025-03-07T12:52:45+00:00 WARNING The image upload failed: "cURL error 7: Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server", creating the product without image
+2025-03-07T12:52:45+00:00 WARNING The image upload failed: "cURL error 7: Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server", creating the product without image
+2025-03-07T12:57:28+00:00 INFO Payment gateway enabled: "Bankinis pavedimas"
+2025-03-07T12:57:29+00:00 INFO Payment gateway enabled: "Apmokėjimas grynais atsiimant (COD)"
